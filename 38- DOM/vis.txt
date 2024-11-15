@@ -1,0 +1,10 @@
+So far, every code we wrote was either displayed in the console or in the terminal using node;
+By using DOM, which stands for Document Object Model,
+we can access Html and CSS elements and make changes in them.
+
+https://www.w3schools.com/js/js_htmldom.asp - DOM
+
+https://www.w3schools.com/jsref/dom_obj_event.asp - HTML DOM Events
+
+I'll make so many projects using DOM, so there would be a separate tutorial for that;
+Now just check out the links above.
