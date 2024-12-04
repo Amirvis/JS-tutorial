@@ -49,7 +49,7 @@ function showTasks(){
     
     let newTag = "";
     listArray.forEach((element,index) => {
-        newTag += `<li>${element}<span class="icon"><i class="fas fa-trash-alt" onclick="deleteTask(${index})"></i></span></li>`
+        newTag += `<li>${element}<span class="icon"><i class="bi bi-x-lg" onclick="deleteTask(${index})"></i></span></li>`
     })
     
     todoList.innerHTML = newTag;
